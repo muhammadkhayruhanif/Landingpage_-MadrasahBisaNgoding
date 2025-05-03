@@ -16,14 +16,18 @@ Pendaftaran program **#MadrasahBisaNgoding** dimulai dari 10 November sampai 31 
 
 ## 🌟 Capaian
 Sebagai bagian dari peserta, saya mengembangkan sebuah **Landing Page** bertema **lingkungan** sebagai hasil akhir pelatihan.
-![Image](https://github.com/user-attachments/assets/96c8fa1b-7cb3-45b2-8a6d-3b928c832289)
-![Image](https://github.com/user-attachments/assets/cb402678-520f-425f-bdf4-fe61f2401718)
-Selain itu saya juga berhasil menjadi salah satu dari 10 peserta terbaik yang nantinya dapat mempresentasikan hasil landing page di hadapan 
+Selain itu saya juga berhasil menjadi salah satu dari 10 peserta terbaik yang nantinya dapat mempresentasikan hasil landing page pada **Demo Day**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96c8fa1b-7cb3-45b2-8a6d-3b928c832289" width="45%" />
+  <img src="https://github.com/user-attachments/assets/cb402678-520f-425f-bdf4-fe61f2401718" width="45%" />
+</p>
+
 🔗 [10 Peserta Terbaik Program #MadrasahBisaNgoding](https://skilvul.com/blogs/kenalan-dengan-10-peserta-terbaik-program-beasiswa-madrasahbisangoding/)
 
 ## 🚀 Teknologi yang Digunakan
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## 💻 Tampilan
@@ -31,4 +35,6 @@ Selain itu saya juga berhasil menjadi salah satu dari 10 peserta terbaik yang na
 
 🖼️ **Tampilan gambar**
 
-![Image](https://github.com/user-attachments/assets/2ca1a2c4-2bbb-4a23-892e-d16769ffbcd5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2ca1a2c4-2bbb-4a23-892e-d16769ffbcd5" alt="Image" width="60%" />
+</p>
