@@ -16,6 +16,8 @@ Pendaftaran program **#MadrasahBisaNgoding** dimulai dari 10 November sampai 31 
 
 ## 🌟 Capaian
 Sebagai bagian dari peserta, saya mengembangkan sebuah **Landing Page** bertema **lingkungan** sebagai hasil akhir pelatihan.
+![Image](https://github.com/user-attachments/assets/96c8fa1b-7cb3-45b2-8a6d-3b928c832289)
+![Image](https://github.com/user-attachments/assets/cb402678-520f-425f-bdf4-fe61f2401718)
 Selain itu saya juga berhasil menjadi salah satu dari 10 peserta terbaik yang nantinya dapat mempresentasikan hasil landing page di hadapan 
 🔗 [10 Peserta Terbaik Program #MadrasahBisaNgoding](https://skilvul.com/blogs/kenalan-dengan-10-peserta-terbaik-program-beasiswa-madrasahbisangoding/)
 
@@ -25,7 +27,8 @@ Selain itu saya juga berhasil menjadi salah satu dari 10 peserta terbaik yang na
 - JavaScript
 
 ## 💻 Tampilan
-🔗 [Lihat tampilan halaman website **Sahabat Laut**](https://playground.skilvul.com/preview/clde4huy95f2801oi8gvy14n8?_gl=1*18s5a2l*_gcl_au*MTkwODI0NzQyNC4xNzQ2MjU2NTMw*_ga*MzcxOTEwMjkuMTczNDY2MjkxOA..*_ga_DM8KMHFGLC*czE3NDYyNTY1MzAkbzMkZzEkdDE3NDYyNTcyMDQkajYwJGwwJGgw))
+🔗 [Lihat tampilan halaman website **Sahabat Laut**](https://playground.skilvul.com/preview/clde4huy95f2801oi8gvy14n8?_gl=1*18s5a2l*_gcl_au*MTkwODI0NzQyNC4xNzQ2MjU2NTMw*_ga*MzcxOTEwMjkuMTczNDY2MjkxOA..*_ga_DM8KMHFGLC*czE3NDYyNTY1MzAkbzMkZzEkdDE3NDYyNTcyMDQkajYwJGwwJGgw)
 
 🖼️ **Tampilan gambar**
 
+![Image](https://github.com/user-attachments/assets/2ca1a2c4-2bbb-4a23-892e-d16769ffbcd5)
